@@ -1,0 +1,35 @@
+{
+  "questions": [
+    {
+      "text": "What is the capital of France?",
+      "type": "multiple_choice",
+      "answers": ["London", "Berlin", "Paris", "Madrid"],
+      "correct": "3"
+    },
+    {
+      "text": "Which planet is known as the Red Planet?",
+      "type": "multiple_choice",
+      "answers": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct": "2"
+    },
+    {
+      "text": "Water boils at 100 degrees Celsius.",
+      "type": "true_false",
+      "answers": ["True", "False"],
+      "correct": "1"
+    },
+    {
+      "text": "The Earth is the largest planet in our solar system.",
+      "type": "true_false",
+      "answers": ["True", "False"],
+      "correct": "2"
+    },
+    {
+      "text": "Who painted the Mona Lisa?",
+      "type": "open_ended",
+      "answers": null,
+      "correct": "Leonardo da Vinci",
+      "explanation": "Leonardo da Vinci was a polymath and one of the most famous artists of all time."
+    }
+  ]
+}
